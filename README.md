@@ -31,3 +31,9 @@ $ bin/rails generate controller Articles index --skip-routes
 ```bash
 $ bin/rails generate model Article title:string body:text
 ```
+
+#### 5.2 Database Migrations
+
+```bash
+$ bin/rails db:migrate
+```
