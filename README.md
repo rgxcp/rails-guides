@@ -37,3 +37,9 @@ $ bin/rails generate model Article title:string body:text
 ```bash
 $ bin/rails db:migrate
 ```
+
+#### 5.3 Using a Model to Interact with the Database
+
+```bash
+$ bin/rails console
+```
