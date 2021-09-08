@@ -23,3 +23,11 @@ $ bin/rails server
 ```bash
 $ bin/rails generate controller Articles index --skip-routes
 ```
+
+### 5 MVC and You
+
+#### 5.1 Generating a Model
+
+```bash
+$ bin/rails generate model Article title:string body:text
+```
