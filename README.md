@@ -1,24 +1,11 @@
-# README
+# Ruby - Rails - Rails Guides
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Commands
 
-Things you may want to cover:
+### 3 Creating a New Rails Project
 
-* Ruby version
+#### 3.2 Creating the Blog Application
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+$ rails new blog
+```
