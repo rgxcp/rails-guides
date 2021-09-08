@@ -43,3 +43,11 @@ $ bin/rails db:migrate
 ```bash
 $ bin/rails console
 ```
+
+### 6 CRUDit Where CRUDit Is Due
+
+#### 6.2 Resourceful Routing
+
+```bash
+$ bin/rails routes
+```
