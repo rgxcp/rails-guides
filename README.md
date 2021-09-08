@@ -17,3 +17,9 @@ $ rails new blog
 ```bash
 $ bin/rails server
 ```
+
+#### 4.2 Say "Hello", Rails
+
+```bash
+$ bin/rails generate controller Articles index --skip-routes
+```
