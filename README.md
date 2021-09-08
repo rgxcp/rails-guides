@@ -9,3 +9,11 @@
 ```bash
 $ rails new blog
 ```
+
+### 4 Hello, Rails!
+
+#### 4.1 Starting up the Web Server
+
+```bash
+$ bin/rails server
+```
