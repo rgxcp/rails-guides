@@ -60,3 +60,9 @@ $ bin/rails routes
 $ bin/rails generate model Comment commenter:string body:text article:references
 $ bin/rails db:migrate
 ```
+
+#### 7.4 Generating a Controller
+
+```bash
+$ bin/rails generate controller Comments
+```
