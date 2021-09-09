@@ -51,3 +51,12 @@ $ bin/rails console
 ```bash
 $ bin/rails routes
 ```
+
+### 7 Adding a Second Model
+
+#### 7.1 Generating a Model
+
+```bash
+$ bin/rails generate model Comment commenter:string body:text article:references
+$ bin/rails db:migrate
+```
