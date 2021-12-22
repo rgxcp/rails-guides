@@ -1,4 +1,4 @@
-# 🚃 Ruby - Rails - Rails Guides
+# 🚃 Rails Guides
 
 ## Commands
 
